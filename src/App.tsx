@@ -1,7 +1,8 @@
-import React from 'react';
-import Accountant from './components/Accountant';
+import React from "react";
+import Accountant from "./components/Accountant";
 
 function App() {
+
   return (
     <>
       <Accountant />
