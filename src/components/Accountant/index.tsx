@@ -47,7 +47,7 @@ export default function Accountant() {
 
   return (
     <S.Container>
-      <S.Button autoFocus onClick={() => setCount(count + 1)} title="Contar">
+      <S.Button autoFocus onClick={() => setCount(count + 2)} title="Contar">
         <p>Click</p>
       </S.Button>
       <S.Count>
